@@ -44,6 +44,6 @@ func _on_Button_pressed():
 ```
 (Make sure you indent with tabs)
 
-Run the program, and push the button. Make sure the label updates to the current time and date (in GMT).
+Save the scene as Control.tscn. Run the program, and push the button. Make sure the label updates to the current time and date (in GMT).
 
 When you are completed, update the README.md and the LICENSE. Commit and Push your changes back to Github, and turn the URL of your repository in on Canvas.
